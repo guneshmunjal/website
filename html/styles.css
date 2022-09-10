@@ -1,0 +1,46 @@
+body{
+
+}
+.top-container{
+    background-color: aquamarine;
+}
+.cloud2{
+    position:relative;
+    right: 100px;
+    bottom: 300px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.cloud{
+    text-align: center;
+    position: relative;
+    left:900px;
+}
+
+.mountain{
+    position: relative;
+    left: 400px;
+}
+.middle-container{
+    background-color: white;
+}
+.bottom-container{
+background-color: white;
+}
+.myphoto{
+    position: relative;
+    left: 600px;
+    
+}
+h2{
+    text-align: center;
+}
+
+.skillsimg{
+width: 5%;
+float: left;
+}
